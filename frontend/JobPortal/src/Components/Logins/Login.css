@@ -1,0 +1,28 @@
+
+/*  */
+.loginForm{
+    background: linear-gradient(#4721c5,#42006C);
+    height: 400px;
+    width: 600px;
+    
+  
+  }
+  
+  .logout-button{
+    background-color: rgb(217, 245, 250);;
+    border-radius: 15px;
+    padding: 5px 10px;
+    border: none;
+    transition: 1s;
+    
+  
+  }
+  .logout-button:hover{
+    background-color: white;
+    transition: 1s;
+  }
+
+  /* .inputss{
+   color: #4721c5;
+  } */
+  
